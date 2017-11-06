@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * @author Serhiy Bardysh
- *
+ * Grand Circus Casino App is dice randomizer with option for multiple rolls
  */
 public class GrandCasino {
 
